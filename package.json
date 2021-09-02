@@ -1,5 +1,5 @@
 {
-  "name": "amplify-demo-v2",
+  "name": "amplify-offline-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
